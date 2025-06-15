@@ -6,7 +6,7 @@ Na dole strony znajduję się stopka(footer). Przy kliknięciu w element menu, s
 
 Zeby zobaczyc jak strona wygląda przejdż po linku: https://yanylyya.github.io/strona/
 
-## GD English
+## GB English
 This is my first major project using HTML and CSS. The website includes a main menu with the following sections: Home, About the Author, Her Books, and Contact (the names clearly reflect the content of each section).
 At the bottom of the page, there is a footer. When you click on a menu item, the page smoothly scrolls to the corresponding section.
 
